@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariam7575
-- 👀 I’m interested in 
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Artificial Intelligence and Game Develpoement
+- 🌱 I’m currently learning OOPs USING Java language.
+- 💞️ I’m looking to collaborate on competitive programming
 - 📫 How to reach me @imaryam832@gmail.com
 
 <!---
