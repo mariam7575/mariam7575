@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariam7575
-- 👀 I’m interested in Artificial Intelligence and Game Develpoement
-- 🌱 I’m currently learning DSA dATA STRUCTURE AND ALGORITHM
+- 👀 I’m interested in Artificial Intelligence and Game Development
+- 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on competitive programming
 - 📫 How to reach me @imaryam832@gmail.com
 
